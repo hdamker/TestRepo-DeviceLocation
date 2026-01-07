@@ -1,3 +1,9 @@
+> **TEST REPOSITORY**: This is a test repository for CAMARA release workflow validation.
+> Mirror of [camaraproject/DeviceLocation](https://github.com/camaraproject/DeviceLocation).
+> Do not use for production purposes.
+
+---
+
 <a href="https://github.com/camaraproject/DeviceLocation/commits/" title="Last Commit"><img src="https://img.shields.io/github/last-commit/camaraproject/DeviceLocation?style=plastic"></a>
 <a href="https://github.com/camaraproject/DeviceLocation/issues" title="Open Issues"><img src="https://img.shields.io/github/issues/camaraproject/DeviceLocation?style=plastic"></a>
 <a href="https://github.com/camaraproject/DeviceLocation/pulls" title="Open Pull Requests"><img src="https://img.shields.io/github/issues-pr/camaraproject/DeviceLocation?style=plastic"></a>
